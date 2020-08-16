@@ -12,6 +12,7 @@
 
 1. Clone the repository to your system.
 2. Place your text file (.txt file) containing the exam results of students in this directory.
+
    > _The text file must be in the format of the [sample text file in this repository](./SAMPLE_FILE.txt)_
 3. Open [result10.js](./resul10.js) file, go to line 63, and change the "SAMPLE_FILE.txt" to the name of your text file.
    > e.g. -<br> change `fs.createReadStream('SAMPLE_FILE.txt')` to `fs.createReadStream('_name of your text file here_')`
