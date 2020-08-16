@@ -15,7 +15,7 @@
 
    > _The text file must be in the format of the [sample text file in this repository](./SAMPLE_FILE.txt)_
 
-3. Open [result10.js](./resul10.js) file, go to line 63, and change the "SAMPLE_FILE.txt" to the name of your text file.
+3. Open [result10.js](./result10.js) file, go to line 63, and change the "SAMPLE_FILE.txt" to the name of your text file.
    > e.g. -<br> change **`fs.createReadStream('SAMPLE_FILE.txt')`** to **`fs.createReadStream('_name of your text file here_')`**
 4. Navigate to the this folder in terminal.
 5. Run **`node install`** in the terminal.
