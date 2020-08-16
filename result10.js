@@ -130,15 +130,7 @@ function processData(lines) {
 var fileName = 'result-10';
 var filePath = `./${fileName}.xlsx`;
 
-function writeToExcel(
-	roll,
-	name,
-	gender,
-	subjectData,
-	subjectsArray,
-	result,
-	row
-) {
+function writeToExcel(roll, name, gender, subjectData, result, row) {
 	worksheet.cell(row, 1).string(roll).style(dataStyle);
 	worksheet.cell(row, 2).string(gender).style(dataStyle);
 	worksheet.cell(row, 3).string(name).style(dataStyle);
