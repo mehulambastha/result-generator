@@ -1,0 +1,12 @@
+2   M ATUL RAI KAPOOR                                     184    085    241    086    087     165     COMP241    
+                                                    050 D1 033 D2 028 E  033 D2 047 D2  074 D2
+3   F UDIT SONI                                     184    085    041    086    087     165     PASS          
+                                                    078 B2 080 C1 063 B2 064 B2 085 B1  091 B2
+4   M BIMAL RAI                                     184    085    041    086    087     165     PASS          
+                                                    059 D1 081 B2 049 C2 051 C1 083 B1  089 B2
+5   M ANUJ BANSAL                                   184    085    041    086    087     165     PASS          
+                                                    071 C1 067 D1 033 D2 042 C2 056 D1  083 C2
+6   M HEMANT ISHRANI KUKREJA                               184    085    041    086    087     165     PASS          
+                                                    076 B2 058 D1 038 D1 049 C1 067 C1  087 C1
+7   M AJAY RAJ                                      184    085    041    086    087     165     PASS          
+                                                    090 A2 086 B1 087 A2 091 A1 095 A1  097 A1
