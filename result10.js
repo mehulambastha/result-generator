@@ -112,15 +112,7 @@ function processData(lines) {
 			for (let j = 0; j < marksPerChild.length; j++) {
 				subjectWiseData.set(subjectsArray[j], marksPerChild[j]);
 			}
-			writeToExcel(
-				roll,
-				name,
-				gender,
-				subjectWiseData,
-				subjectsArray,
-				result,
-				row
-			);
+			writeToExcel(roll, name, gender, subjectWiseData, result, row);
 			row += 1;
 		}
 		count += 1;
